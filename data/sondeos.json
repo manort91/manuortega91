@@ -1,0 +1,1673 @@
+{
+ "schema": 1,
+ "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Spanish_general_election",
+ "license": "CC BY-SA 4.0",
+ "updated": "2026-11-09",
+ "revision": 1384657927,
+ "paused": false,
+ "polls": [
+  {
+   "id": "sociometrica-2026-11-08-2026-11-08",
+   "pollster": "SocioMétrica",
+   "client": "El Español",
+   "published": "2026-11-08",
+   "start": "2026-09-01",
+   "end": "2026-11-08",
+   "sample": 5460,
+   "votes": {
+    "pp": 32.3,
+    "psoe": 27.7,
+    "vox": 18.9,
+    "sumar": 5,
+    "compromis": 0.9,
+    "erc": 2.4,
+    "junts": 1.4,
+    "bildu": 1.6,
+    "pnv": 0.8,
+    "bng": 1,
+    "cc": 0.5,
+    "adelante": 1.7,
+    "podemos": 1.2,
+    "salf": 2.2
+   },
+   "seats": {
+    "pp": 136,
+    "psoe": 108,
+    "vox": 66,
+    "sumar": 6,
+    "compromis": 2,
+    "erc": 9,
+    "junts": 6,
+    "bildu": 8,
+    "pnv": 3,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.elespanol.com/espana/politica/20261108/pp-vox-suman-escanos-sanchez-recupera-perdio-urda-dimision-puente-sondeo-noche/1003744450645_0.html"
+  },
+  {
+   "id": "sw-demoscopia-2026-11-08-2026-11-07",
+   "pollster": "SW Demoscopia",
+   "client": "La Séptima",
+   "published": "2026-11-08",
+   "start": "2026-10-26",
+   "end": "2026-11-07",
+   "sample": 5000,
+   "votes": {
+    "pp": 28.7,
+    "psoe": 31,
+    "vox": 17.3,
+    "sumar": 7.6,
+    "erc": 2.5,
+    "junts": 1.2,
+    "bildu": 1.4,
+    "pnv": 0.8,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1.4,
+    "podemos": 1.7,
+    "salf": 2.1
+   },
+   "seats": {
+    "bildu": 7,
+    "bng": 2,
+    "cc": 1,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     114,
+     121
+    ],
+    "psoe": [
+     126,
+     132
+    ],
+    "vox": [
+     58,
+     64
+    ],
+    "sumar": [
+     11,
+     14
+    ],
+    "erc": [
+     9,
+     12
+    ],
+    "junts": [
+     3,
+     5
+    ],
+    "pnv": [
+     2,
+     3
+    ],
+    "adelante": [
+     2,
+     3
+    ]
+   },
+   "source": "https://media.licdn.com/dms/document/media/v2/D4E1FAQGAE9qXXNttEQ/feedshare-document-sanitized-pdf/B4EaG_aoLXHoA8-/0/1794212792551?e=1794823200&v=beta&t=63_bT02P4exvR_s9mCewipYNPF26SQ8LoMo_P7sSiOA"
+  },
+  {
+   "id": "imop-2026-11-08-2026-11-06",
+   "pollster": "IMOP",
+   "client": "El Confidencial",
+   "published": "2026-11-08",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "sample": 1000,
+   "votes": {
+    "pp": 29.8,
+    "psoe": 25.9,
+    "vox": 19.9,
+    "sumar": 8.1,
+    "erc": 2.6,
+    "junts": 1.2,
+    "bildu": 1.6,
+    "pnv": 0.7,
+    "bng": 1.3,
+    "cc": 0.5,
+    "adelante": 1.8,
+    "podemos": 1.2,
+    "salf": 1.7
+   },
+   "seats": {
+    "pp": 126,
+    "psoe": 106,
+    "vox": 70,
+    "sumar": 13,
+    "erc": 11,
+    "junts": 4,
+    "bildu": 7,
+    "pnv": 4,
+    "bng": 3,
+    "cc": 1,
+    "adelante": 4,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.elconfidencial.com/espana/2026-11-08/derecha-recupera-seis-escanos-izquierda-castigo-psoe-urda-cbtr_4460900/"
+  },
+  {
+   "id": "em-analytics-2026-11-08-2026-11-06",
+   "pollster": "EM-Analytics",
+   "client": "Electomanía",
+   "published": "2026-11-08",
+   "start": "2026-11-01",
+   "end": "2026-11-06",
+   "sample": 1860,
+   "votes": {
+    "pp": 31.1,
+    "psoe": 25.3,
+    "vox": 19.2,
+    "sumar": 6.1,
+    "compromis": 1.5,
+    "erc": 2.2,
+    "junts": 1.2,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 0.9,
+    "cc": 0.3,
+    "adelante": 1,
+    "podemos": 1.8,
+    "salf": 1.9
+   },
+   "seats": {
+    "pp": 131,
+    "psoe": 108,
+    "vox": 66,
+    "sumar": 12,
+    "compromis": 3,
+    "erc": 8,
+    "junts": 5,
+    "bildu": 8,
+    "pnv": 4,
+    "bng": 2,
+    "cc": 0,
+    "adelante": 2,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://electomania.es/electopanel-8-nov-el-bipartidismo-cede-terreno-vox-sube-en-escanos-y-eh-bildu-se-distancia-del-pnv/"
+  },
+  {
+   "id": "sigma-dos-2026-11-08-2026-11-06",
+   "pollster": "Sigma Dos",
+   "client": "El Mundo",
+   "published": "2026-11-08",
+   "start": "2026-10-30",
+   "end": "2026-11-06",
+   "sample": 4172,
+   "votes": {
+    "pp": 31,
+    "psoe": 25.2,
+    "vox": 19.4,
+    "sumar": 6.9,
+    "compromis": 1.2,
+    "erc": 2.9,
+    "junts": 1.2,
+    "bildu": 1.3,
+    "pnv": 0.9,
+    "bng": 1,
+    "cc": 0.4,
+    "adelante": 1.6,
+    "podemos": 1.6
+   },
+   "seats": {
+    "bng": 2,
+    "podemos": 0
+   },
+   "ranges": {
+    "pp": [
+     131,
+     137
+    ],
+    "psoe": [
+     101,
+     106
+    ],
+    "vox": [
+     62,
+     70
+    ],
+    "sumar": [
+     10,
+     12
+    ],
+    "compromis": [
+     3,
+     4
+    ],
+    "erc": [
+     8,
+     9
+    ],
+    "junts": [
+     5,
+     6
+    ],
+    "bildu": [
+     6,
+     8
+    ],
+    "pnv": [
+     4,
+     6
+    ],
+    "cc": [
+     0,
+     1
+    ],
+    "adelante": [
+     3,
+     4
+    ]
+   },
+   "source": "https://www.elmundo.es/espana/encuestas/2026/11/08/6af066bee85eceae5a8b4598.html"
+  },
+  {
+   "id": "sw-demoscopia-2026-11-07-2026-11-06",
+   "pollster": "SW Demoscopia",
+   "client": "La Séptima",
+   "published": "2026-11-07",
+   "start": "2026-10-26",
+   "end": "2026-11-06",
+   "sample": 4500,
+   "votes": {
+    "pp": 28.8,
+    "psoe": 30.8,
+    "vox": 17.2,
+    "sumar": 7.7,
+    "erc": 2.5,
+    "junts": 1.2,
+    "bildu": 1.3,
+    "pnv": 0.8,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1.5,
+    "podemos": 1.8,
+    "salf": 2.1
+   },
+   "seats": {
+    "pnv": 3,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     115,
+     122
+    ],
+    "psoe": [
+     126,
+     132
+    ],
+    "vox": [
+     57,
+     64
+    ],
+    "sumar": [
+     11,
+     14
+    ],
+    "erc": [
+     9,
+     12
+    ],
+    "junts": [
+     3,
+     5
+    ],
+    "bildu": [
+     6,
+     7
+    ]
+   },
+   "source": "https://media.licdn.com/dms/document/media/v2/D4E1FAQFZ9M82yro8Iw/feedshare-document-pdf-analyzed/B4EaG33yQBJgAY-/0/1794086218465?e=1795046400&v=beta&t=uNJl1bSK3Zmv5CVdrgdgbmkjbm9Bt4Fz_MHtKH6S8dw"
+  },
+  {
+   "id": "gad3-2026-11-09-2026-11-05",
+   "pollster": "GAD3",
+   "client": "Vocento",
+   "published": "2026-11-09",
+   "start": "2026-11-03",
+   "end": "2026-11-05",
+   "sample": 1502,
+   "votes": {
+    "pp": 31.9,
+    "psoe": 25.9,
+    "vox": 18.6,
+    "sumar": 7.5,
+    "erc": 2.7,
+    "junts": 1.4,
+    "bildu": 1.5,
+    "pnv": 0.9,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1.6,
+    "podemos": 1.4,
+    "salf": 1.3
+   },
+   "seats": {
+    "pp": 136,
+    "psoe": 103,
+    "vox": 63,
+    "sumar": 12,
+    "erc": 12,
+    "junts": 5,
+    "bildu": 8,
+    "pnv": 4,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.abc.es/espana/accidente-urda-apenas-altera-bloques-29n-derecha-20261108023004-nt.html"
+  },
+  {
+   "id": "ateneo-del-dato-2026-11-08-2026-11-05",
+   "pollster": "Ateneo del Dato",
+   "client": "elDiario.es",
+   "published": "2026-11-08",
+   "start": "2026-11-02",
+   "end": "2026-11-05",
+   "sample": 2000,
+   "votes": {
+    "pp": 31.5,
+    "psoe": 28.6,
+    "vox": 18.6,
+    "sumar": 6.1,
+    "podemos": 1.5
+   },
+   "seats": {
+    "podemos": 0
+   },
+   "ranges": {
+    "pp": [
+     123,
+     133
+    ],
+    "psoe": [
+     108,
+     116
+    ],
+    "vox": [
+     61,
+     69
+    ],
+    "sumar": [
+     9,
+     11
+    ]
+   },
+   "source": "https://www.eldiario.es/politica/psoe-crece-dimision-oscar-puente-pp-vox-mantienen-mayoria-absoluta_1_13643551.html"
+  },
+  {
+   "id": "nc-report-2026-11-09-2026-11-05",
+   "pollster": "NC Report",
+   "client": "La Razón",
+   "published": "2026-11-09",
+   "start": "2026-11-02",
+   "end": "2026-11-05",
+   "sample": 1000,
+   "votes": {
+    "pp": 33,
+    "psoe": 25.6,
+    "vox": 19.3,
+    "sumar": 6.9,
+    "erc": 2,
+    "junts": 1.8,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 0.8,
+    "cc": 0.4,
+    "adelante": 1.2,
+    "podemos": 2.4
+   },
+   "seats": {
+    "bng": 2,
+    "cc": 1
+   },
+   "ranges": {
+    "pp": [
+     138,
+     140
+    ],
+    "psoe": [
+     99,
+     101
+    ],
+    "vox": [
+     67,
+     69
+    ],
+    "sumar": [
+     9,
+     10
+    ],
+    "erc": [
+     7,
+     8
+    ],
+    "junts": [
+     8,
+     9
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     4,
+     5
+    ],
+    "adelante": [
+     2,
+     3
+    ],
+    "podemos": [
+     0,
+     1
+    ]
+   },
+   "source": "https://www.larazon.es/espana/gana-7-puntos-psoe-que-cae-100-escanos_202611096af1319903bbf30bb045239e.html"
+  },
+  {
+   "id": "sw-demoscopia-2026-11-06-2026-11-05",
+   "pollster": "SW Demoscopia",
+   "client": "La Séptima",
+   "published": "2026-11-06",
+   "start": "2026-10-26",
+   "end": "2026-11-05",
+   "sample": 4000,
+   "votes": {
+    "pp": 28.5,
+    "psoe": 31,
+    "vox": 17.2,
+    "sumar": 7.6,
+    "erc": 2.6,
+    "junts": 1.2,
+    "bildu": 1.3,
+    "pnv": 0.8,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1.5,
+    "podemos": 1.2,
+    "salf": 2
+   },
+   "seats": {
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     114,
+     120
+    ],
+    "psoe": [
+     126,
+     132
+    ],
+    "vox": [
+     56,
+     63
+    ],
+    "sumar": [
+     11,
+     14
+    ],
+    "erc": [
+     10,
+     12
+    ],
+    "junts": [
+     3,
+     5
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     3,
+     4
+    ]
+   },
+   "source": "https://media.licdn.com/dms/document/media/v2/D4E1FAQGg7xbSrdGpkg/feedshare-document-pdf-analyzed/B4EaGw8W1yIgAc-/0/1793969976552?e=1795046400&v=beta&t=8IpctmM2_0m4UDTAj-75v3nzr5JpthVu4MZSqSdDO0I"
+  },
+  {
+   "id": "40db-2026-11-09-2026-11-04",
+   "pollster": "40dB",
+   "client": "Prisa",
+   "published": "2026-11-09",
+   "start": "2026-11-02",
+   "end": "2026-11-04",
+   "sample": 2000,
+   "votes": {
+    "pp": 31.9,
+    "psoe": 29.9,
+    "vox": 18,
+    "sumar": 3.9,
+    "compromis": 1.1,
+    "podemos": 1.2,
+    "salf": 2
+   },
+   "seats": {
+    "compromis": 3,
+    "erc": 10,
+    "junts": 3,
+    "bildu": 7,
+    "pnv": 3,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     126,
+     139
+    ],
+    "psoe": [
+     115,
+     123
+    ],
+    "vox": [
+     58,
+     64
+    ],
+    "sumar": [
+     4,
+     8
+    ]
+   },
+   "source": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-bloque-de-la-derecha-mantiene-su-ventaja-pero-el-psoe-se-acerca-al-pp.html"
+  },
+  {
+   "id": "sondaxe-2026-11-08-2026-11-04",
+   "pollster": "Sondaxe",
+   "client": "La Voz de Galicia",
+   "published": "2026-11-08",
+   "start": "2026-11-02",
+   "end": "2026-11-04",
+   "sample": 1200,
+   "votes": {
+    "pp": 29.7,
+    "psoe": 27.3,
+    "vox": 18.6,
+    "sumar": 7.1,
+    "erc": 2.9,
+    "junts": 1.4,
+    "bildu": 1.5,
+    "pnv": 0.7,
+    "bng": 0.9,
+    "cc": 0.5,
+    "adelante": 2.3,
+    "podemos": 2.2,
+    "salf": 1.6
+   },
+   "seats": null,
+   "ranges": null,
+   "source": "https://www.lavozdegalicia.es/noticia/espana/2026/11/06/feijoo-adelanta-pedro-sanchez-candidato-preferido-gobernar/00031793992905957222982.htm"
+  },
+  {
+   "id": "sw-demoscopia-2026-11-05-2026-11-04",
+   "pollster": "SW Demoscopia",
+   "client": "La Séptima",
+   "published": "2026-11-05",
+   "start": "2026-10-26",
+   "end": "2026-11-04",
+   "sample": 3500,
+   "votes": {
+    "pp": 28.8,
+    "psoe": 30.9,
+    "vox": 17,
+    "sumar": 7.6,
+    "erc": 2.6,
+    "junts": 1.2,
+    "bildu": 1.4,
+    "pnv": 0.8,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1.4,
+    "podemos": 1.2,
+    "salf": 2
+   },
+   "seats": {
+    "bng": 2,
+    "cc": 1,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     116,
+     122
+    ],
+    "psoe": [
+     125,
+     131
+    ],
+    "vox": [
+     56,
+     63
+    ],
+    "sumar": [
+     11,
+     14
+    ],
+    "erc": [
+     10,
+     12
+    ],
+    "junts": [
+     3,
+     5
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     3,
+     4
+    ],
+    "adelante": [
+     2,
+     3
+    ]
+   },
+   "source": "https://media.licdn.com/dms/document/media/v2/D4E1FAQFdGLaJn2XUbg/feedshare-document-pdf-analyzed/B4EaGw7YODGsAY-/0/1793969720040?e=1795046400&v=beta&t=0J8YZ9lUA_paDke-Y4lVvbHW6OZxjHRE5hLawnGzR2s"
+  },
+  {
+   "id": "data10-2026-11-09-2026-11-03",
+   "pollster": "Data10",
+   "client": "Okdiario",
+   "published": "2026-11-09",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "sample": 1500,
+   "votes": {
+    "pp": 32.4,
+    "psoe": 24.7,
+    "vox": 19.8,
+    "sumar": 6.9,
+    "erc": 2.3,
+    "junts": 1.5,
+    "bildu": 1.3,
+    "pnv": 0.7,
+    "bng": 1,
+    "cc": 0.4,
+    "adelante": 1.3,
+    "podemos": 3.1,
+    "salf": 1.5
+   },
+   "seats": {
+    "pp": 134,
+    "psoe": 97,
+    "vox": 69,
+    "sumar": 14,
+    "erc": 7,
+    "junts": 6,
+    "bildu": 7,
+    "pnv": 4,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 2,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://okdiario.com/espana/psoe-paga-tragedia-urda-hunde-hasta-97-escanos-mientras-pp-vox-suman-203-20728358"
+  },
+  {
+   "id": "celeste-tel-2026-11-06-2026-11-03",
+   "pollster": "Celeste-Tel",
+   "client": "Onda Cero",
+   "published": "2026-11-06",
+   "start": "2026-10-29",
+   "end": "2026-11-03",
+   "sample": 1100,
+   "votes": {
+    "pp": 31.8,
+    "psoe": 25.7,
+    "vox": 19.2,
+    "sumar": 6.8,
+    "compromis": 1.2,
+    "erc": 2.2,
+    "junts": 1.5,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 0.8,
+    "cc": 0.5,
+    "adelante": 1.2,
+    "podemos": 1.9,
+    "salf": 1.6
+   },
+   "seats": {
+    "pp": 138,
+    "psoe": 101,
+    "vox": 66,
+    "sumar": 10,
+    "compromis": 3,
+    "erc": 8,
+    "junts": 6,
+    "bildu": 7,
+    "pnv": 4,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.ondacero.es/elecciones/generales/encuestas-vox-lograrian-absolutisima-segun-celeste-tel_202611066aedd355ea8d8979977bbe63.html"
+  },
+  {
+   "id": "sociometrica-2026-11-01-2026-11-01",
+   "pollster": "SocioMétrica",
+   "client": "El Español",
+   "published": "2026-11-01",
+   "start": "2026-09-01",
+   "end": "2026-11-01",
+   "sample": 4893,
+   "votes": {
+    "pp": 32.7,
+    "psoe": 26.6,
+    "vox": 19.1,
+    "sumar": 5.2,
+    "compromis": 0.9,
+    "erc": 2.5,
+    "junts": 1.4,
+    "bildu": 1.4,
+    "pnv": 0.8,
+    "bng": 0.9,
+    "cc": 0.5,
+    "adelante": 1.4,
+    "podemos": 1.7,
+    "salf": 2.5
+   },
+   "seats": {
+    "pp": 139,
+    "psoe": 106,
+    "vox": 64,
+    "sumar": 7,
+    "compromis": 3,
+    "erc": 9,
+    "junts": 6,
+    "bildu": 7,
+    "pnv": 4,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 2,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.elespanol.com/espana/politica/20261101/primer-sondeo-tragedia-pp-vox-amplian-ventaja-sanchez-sigue-cayendo-pese-vaciar-frente-amplio/1003744442810_0.html"
+  },
+  {
+   "id": "sigma-dos-2026-11-01-2026-10-30",
+   "pollster": "Sigma Dos",
+   "client": "El Mundo",
+   "published": "2026-11-01",
+   "start": "2026-10-29",
+   "end": "2026-10-30",
+   "sample": 2505,
+   "votes": {
+    "pp": 31.1,
+    "psoe": 24.6,
+    "vox": 19.3,
+    "sumar": 7.5,
+    "compromis": 0.9,
+    "erc": 3,
+    "junts": 1.1,
+    "bildu": 1.3,
+    "pnv": 0.9,
+    "bng": 1,
+    "cc": 0.4,
+    "adelante": 1.4,
+    "podemos": 1.9
+   },
+   "seats": {
+    "junts": 6,
+    "bng": 2
+   },
+   "ranges": {
+    "pp": [
+     133,
+     139
+    ],
+    "psoe": [
+     97,
+     103
+    ],
+    "vox": [
+     63,
+     69
+    ],
+    "sumar": [
+     9,
+     12
+    ],
+    "compromis": [
+     2,
+     3
+    ],
+    "erc": [
+     9,
+     11
+    ],
+    "bildu": [
+     7,
+     8
+    ],
+    "pnv": [
+     5,
+     6
+    ],
+    "cc": [
+     0,
+     1
+    ],
+    "adelante": [
+     3,
+     4
+    ],
+    "podemos": [
+     0,
+     1
+    ]
+   },
+   "source": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html"
+  },
+  {
+   "id": "target-point-2026-11-02-2026-10-30",
+   "pollster": "Target Point",
+   "client": "El Debate",
+   "published": "2026-11-02",
+   "start": "2026-10-28",
+   "end": "2026-10-30",
+   "sample": 1024,
+   "votes": {
+    "pp": 31.8,
+    "psoe": 25.5,
+    "vox": 19.9,
+    "sumar": 6.6,
+    "podemos": 2.4,
+    "salf": 2.6
+   },
+   "seats": {
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     131,
+     135
+    ],
+    "psoe": [
+     99,
+     103
+    ],
+    "vox": [
+     68,
+     72
+    ],
+    "sumar": [
+     9,
+     11
+    ]
+   },
+   "source": null
+  },
+  {
+   "id": "em-analytics-2026-11-01-2026-10-30",
+   "pollster": "EM-Analytics",
+   "client": "Electomanía",
+   "published": "2026-11-01",
+   "start": "2026-10-28",
+   "end": "2026-10-30",
+   "sample": 1527,
+   "votes": {
+    "pp": 31.5,
+    "psoe": 25.8,
+    "vox": 19.2,
+    "sumar": 6.2,
+    "compromis": 1.4,
+    "erc": 2.2,
+    "junts": 1.2,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 1,
+    "cc": 0.3,
+    "adelante": 1,
+    "podemos": 1.7,
+    "salf": 1.6
+   },
+   "seats": {
+    "pp": 133,
+    "psoe": 108,
+    "vox": 64,
+    "sumar": 12,
+    "compromis": 2,
+    "erc": 8,
+    "junts": 5,
+    "bildu": 7,
+    "pnv": 6,
+    "bng": 2,
+    "cc": 0,
+    "adelante": 2,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://electomania.es/electopanel-1-nov-el-psoe-baja-y-vuelve-a-minimos/"
+  },
+  {
+   "id": "nc-report-2026-11-02-2026-10-29",
+   "pollster": "NC Report",
+   "client": "La Razón",
+   "published": "2026-11-02",
+   "start": "2026-10-26",
+   "end": "2026-10-29",
+   "sample": 1000,
+   "votes": {
+    "pp": 33,
+    "psoe": 25.6,
+    "vox": 19.3,
+    "sumar": 6.9,
+    "erc": 2,
+    "junts": 1.8,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 0.8,
+    "cc": 0.4,
+    "adelante": 1.2,
+    "podemos": 2.4
+   },
+   "seats": {
+    "bng": 2,
+    "cc": 1
+   },
+   "ranges": {
+    "pp": [
+     140,
+     142
+    ],
+    "psoe": [
+     100,
+     102
+    ],
+    "vox": [
+     66,
+     68
+    ],
+    "sumar": [
+     9,
+     10
+    ],
+    "erc": [
+     7,
+     8
+    ],
+    "junts": [
+     8,
+     9
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     4,
+     5
+    ],
+    "adelante": [
+     2,
+     3
+    ],
+    "podemos": [
+     0,
+     1
+    ]
+   },
+   "source": "https://www.larazon.es/espana/psoe-frena-efecto-remontada-derecha-consolida-mayoria-absoluta_202611026ae783220250123215703bb1.html"
+  },
+  {
+   "id": "sondaxe-2026-11-01-2026-10-28",
+   "pollster": "Sondaxe",
+   "client": "La Voz de Galicia",
+   "published": "2026-11-01",
+   "start": "2026-10-26",
+   "end": "2026-10-28",
+   "sample": 1200,
+   "votes": {
+    "pp": 29.2,
+    "psoe": 26.9,
+    "vox": 19.2,
+    "sumar": 7.2,
+    "erc": 2.6,
+    "junts": 1.3,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 0.9,
+    "cc": 0.3,
+    "adelante": 2,
+    "podemos": 2,
+    "salf": 2.4
+   },
+   "seats": null,
+   "ranges": null,
+   "source": "https://www.lavozdegalicia.es/noticia/espana/2026/11/01/pp-ganaria-elecciones-23-puntos-ventaja-sobre-psoe/0003_202611G1P26991.htm"
+  },
+  {
+   "id": "hamalgama-metrica-2026-11-02-2026-10-28",
+   "pollster": "Hamalgama Métrica",
+   "client": "Vozpópuli",
+   "published": "2026-11-02",
+   "start": "2026-10-22",
+   "end": "2026-10-28",
+   "sample": 1000,
+   "votes": {
+    "pp": 32.4,
+    "psoe": 26.4,
+    "vox": 19.9,
+    "sumar": 5.4,
+    "erc": 1.9,
+    "junts": 1.7,
+    "bildu": 1.3,
+    "pnv": 0.9,
+    "bng": 0.8,
+    "adelante": 1.1,
+    "podemos": 2.2,
+    "salf": 1.8
+   },
+   "seats": {
+    "pp": 137,
+    "psoe": 106,
+    "vox": 70,
+    "sumar": 7,
+    "erc": 7,
+    "junts": 7,
+    "bildu": 7,
+    "pnv": 4,
+    "bng": 2,
+    "adelante": 2,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.vozpopuli.com/espana/politica/pp-y-vox-suman-ya-un-techo-historico-de-127-millones-de-votos-y-lograrian-205-escanos.html"
+  },
+  {
+   "id": "vox-2026-11-01-2026-10-27",
+   "kind": "internal",
+   "pollster": "Vox",
+   "client": "The Objective",
+   "published": "2026-11-01",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "sample": 1500,
+   "votes": {
+    "pp": 28.1,
+    "psoe": 29.6,
+    "vox": 20.2,
+    "sumar": 6.2,
+    "podemos": 1.9,
+    "salf": 1.1
+   },
+   "seats": {
+    "erc": 8,
+    "junts": 5,
+    "adelante": 2,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": {
+    "pp": [
+     114,
+     118
+    ],
+    "psoe": [
+     117,
+     121
+    ],
+    "vox": [
+     67,
+     71
+    ],
+    "sumar": [
+     12,
+     14
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     3,
+     4
+    ],
+    "bng": [
+     1,
+     2
+    ],
+    "cc": [
+     0,
+     1
+    ]
+   },
+   "source": "https://theobjective.com/espana/2026-11-01/sondeo-vox-71-escanos/"
+  },
+  {
+   "id": "psoe-2026-10-25-2026-10-25",
+   "kind": "internal",
+   "pollster": "PSOE",
+   "client": null,
+   "published": "2026-10-25",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "sample": null,
+   "votes": {
+    "pp": 29,
+    "psoe": 30,
+    "vox": 20
+   },
+   "seats": null,
+   "ranges": null,
+   "source": "https://www.eldiario.es/politica/sanchez-saca-psoe-pesimismo-errores-feijoo-miedo-vox_1_13607713.html"
+  },
+  {
+   "id": "more-in-common-2026-11-03-2026-10-25",
+   "pollster": "More in Common",
+   "client": null,
+   "published": "2026-11-03",
+   "start": "2026-10-21",
+   "end": "2026-10-25",
+   "sample": 2210,
+   "votes": {
+    "pp": 28.3,
+    "psoe": 27.6,
+    "vox": 20.8,
+    "sumar": 7.8,
+    "podemos": 2.6,
+    "salf": 2.4
+   },
+   "seats": null,
+   "ranges": null,
+   "source": "https://moreincommones.substack.com/p/rumbo-al-29n-una-radiografia-de-la"
+  },
+  {
+   "id": "sociometrica-2026-10-26-2026-10-25",
+   "pollster": "SocioMétrica",
+   "client": "El Español",
+   "published": "2026-10-26",
+   "start": "2026-09-01",
+   "end": "2026-10-25",
+   "sample": 3223,
+   "votes": {
+    "pp": 32.4,
+    "psoe": 27,
+    "vox": 18.6,
+    "sumar": 5.2,
+    "compromis": 0.9,
+    "erc": 2.6,
+    "junts": 1.7,
+    "bildu": 1.3,
+    "pnv": 0.8,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1.2,
+    "podemos": 1.8,
+    "salf": 2.4
+   },
+   "seats": {
+    "pp": 137,
+    "psoe": 108,
+    "vox": 63,
+    "sumar": 7,
+    "compromis": 3,
+    "erc": 9,
+    "junts": 7,
+    "bildu": 7,
+    "pnv": 4,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 2,
+    "podemos": 0,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.elespanol.com/espana/politica/20261025/izquierda-no-remonta-sanchez-gana-escanos-costa-frente-podemos-sondeo-noche/1003744434105_0.html"
+  },
+  {
+   "id": "nc-report-2026-10-26-2026-10-24",
+   "pollster": "NC Report",
+   "client": "La Razón",
+   "published": "2026-10-26",
+   "start": "2026-10-22",
+   "end": "2026-10-24",
+   "sample": 1000,
+   "votes": {
+    "pp": 33.1,
+    "psoe": 25.8,
+    "vox": 19,
+    "sumar": 6.6,
+    "erc": 2,
+    "junts": 1.8,
+    "bildu": 1.4,
+    "pnv": 0.9,
+    "bng": 0.8,
+    "cc": 0.4,
+    "adelante": 1.3,
+    "podemos": 2.6
+   },
+   "seats": {
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 1
+   },
+   "ranges": {
+    "pp": [
+     142,
+     144
+    ],
+    "psoe": [
+     100,
+     102
+    ],
+    "vox": [
+     64,
+     66
+    ],
+    "sumar": [
+     8,
+     9
+    ],
+    "erc": [
+     7,
+     8
+    ],
+    "junts": [
+     8,
+     9
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     4,
+     5
+    ],
+    "bng": [
+     1,
+     2
+    ]
+   },
+   "source": "https://www.larazon.es/espana/18-votantes-socialistas-apoyan-hoy-vox_202610266adea62a3eef771e1ac8d43d.html"
+  },
+  {
+   "id": "winston-2026-10-26-2026-10-23",
+   "pollster": "Winston",
+   "client": "Artículo14",
+   "published": "2026-10-26",
+   "start": "2026-10-21",
+   "end": "2026-10-23",
+   "sample": 1200,
+   "votes": {
+    "pp": 29.4,
+    "psoe": 27.1,
+    "vox": 19.2,
+    "sumar": 5.6
+   },
+   "seats": {
+    "pp": 122,
+    "psoe": 115,
+    "vox": 69,
+    "sumar": 9,
+    "compromis": 3,
+    "erc": 11,
+    "junts": 4,
+    "bildu": 7,
+    "pnv": 3,
+    "bng": 1,
+    "cc": 1,
+    "adelante": 3,
+    "podemos": 2,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.articulo14.es/politica/encuesta-articulo14-el-psoe-se-coloca-6-escanos-del-pp-que-mantiene-una-mayoria-de-190-escanos-con-vox-20261026.html"
+  },
+  {
+   "id": "em-analytics-2026-10-25-2026-10-23",
+   "pollster": "EM-Analytics",
+   "client": "Electomanía",
+   "published": "2026-10-25",
+   "start": "2026-10-17",
+   "end": "2026-10-23",
+   "sample": 4309,
+   "votes": {
+    "pp": 30.9,
+    "psoe": 26.7,
+    "vox": 19,
+    "sumar": 5.8,
+    "compromis": 1.2,
+    "erc": 2.2,
+    "junts": 1.3,
+    "bildu": 1.4,
+    "pnv": 1,
+    "bng": 1,
+    "cc": 0.3,
+    "adelante": 1.1,
+    "podemos": 1.7,
+    "salf": 1.7
+   },
+   "seats": {
+    "pp": 132,
+    "psoe": 111,
+    "vox": 62,
+    "sumar": 11,
+    "compromis": 2,
+    "erc": 8,
+    "junts": 5,
+    "bildu": 7,
+    "pnv": 6,
+    "bng": 3,
+    "cc": 0,
+    "adelante": 2,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://electomania.es/electopanel-25-octubre-el-pp-baja-de-nuevo-frente-amplio-crece/"
+  },
+  {
+   "id": "ateneo-del-dato-2026-10-25-2026-10-22",
+   "pollster": "Ateneo del Dato",
+   "client": "elDiario.es",
+   "published": "2026-10-25",
+   "start": "2026-10-20",
+   "end": "2026-10-22",
+   "sample": 2000,
+   "votes": {
+    "pp": 31.1,
+    "psoe": 27.6,
+    "vox": 19.8,
+    "sumar": 6.8,
+    "podemos": 2.7
+   },
+   "seats": null,
+   "ranges": {
+    "pp": [
+     119,
+     134
+    ],
+    "psoe": [
+     102,
+     117
+    ],
+    "vox": [
+     64,
+     77
+    ],
+    "sumar": [
+     11,
+     17
+    ],
+    "podemos": [
+     0,
+     3
+    ]
+   },
+   "source": "https://www.eldiario.es/politica/bloque-izquierdas-recorta-distancias-pp-vox-mantienen-mayoria-absoluta_1_13611052.html"
+  },
+  {
+   "id": "sigma-dos-2026-10-26-2026-10-22",
+   "pollster": "Sigma Dos",
+   "client": "El Mundo",
+   "published": "2026-10-26",
+   "start": "2026-10-08",
+   "end": "2026-10-22",
+   "sample": 3122,
+   "votes": {
+    "pp": 30.6,
+    "psoe": 26.1,
+    "vox": 19.9,
+    "sumar": 7.4,
+    "compromis": 0.8,
+    "erc": 2.5,
+    "junts": 1.2,
+    "bildu": 1.2,
+    "pnv": 0.9,
+    "bng": 0.9,
+    "cc": 0.4,
+    "adelante": 1,
+    "podemos": 2.8
+   },
+   "seats": {
+    "bng": 2,
+    "podemos": 1
+   },
+   "ranges": {
+    "pp": [
+     125,
+     131
+    ],
+    "psoe": [
+     103,
+     109
+    ],
+    "vox": [
+     66,
+     69
+    ],
+    "sumar": [
+     10,
+     12
+    ],
+    "compromis": [
+     2,
+     3
+    ],
+    "erc": [
+     8,
+     9
+    ],
+    "junts": [
+     6,
+     7
+    ],
+    "bildu": [
+     7,
+     8
+    ],
+    "pnv": [
+     4,
+     5
+    ],
+    "cc": [
+     0,
+     1
+    ],
+    "adelante": [
+     2,
+     3
+    ]
+   },
+   "source": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html"
+  },
+  {
+   "id": "em-analytics-2026-10-18-2026-10-17",
+   "pollster": "EM-Analytics",
+   "client": "Electomanía",
+   "published": "2026-10-18",
+   "start": "2026-10-15",
+   "end": "2026-10-17",
+   "sample": 3141,
+   "votes": {
+    "pp": 31.8,
+    "psoe": 27.1,
+    "vox": 18.9,
+    "sumar": 4.9,
+    "compromis": 1.3,
+    "erc": 2.1,
+    "junts": 1.2,
+    "bildu": 1.4,
+    "pnv": 1,
+    "bng": 1,
+    "cc": 0.3,
+    "adelante": 1.1,
+    "podemos": 2,
+    "salf": 1.7
+   },
+   "seats": {
+    "pp": 134,
+    "psoe": 111,
+    "vox": 62,
+    "sumar": 7,
+    "compromis": 3,
+    "erc": 8,
+    "junts": 5,
+    "bildu": 7,
+    "pnv": 6,
+    "bng": 3,
+    "cc": 0,
+    "adelante": 3,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://electomania.es/electopanel-18-oct-erc-y-frente-amplio-ceden-ante-el-psoe-podemos-en-el-limite-de-ser-extraparlamentario/"
+  },
+  {
+   "id": "imop-2026-10-23-2026-10-16",
+   "pollster": "IMOP",
+   "client": "El Confidencial",
+   "published": "2026-10-23",
+   "start": "2026-10-13",
+   "end": "2026-10-16",
+   "sample": 1000,
+   "votes": {
+    "pp": 28.5,
+    "psoe": 27.1,
+    "vox": 20,
+    "sumar": 8.9,
+    "erc": 2.2,
+    "junts": 1.2,
+    "bildu": 1.3,
+    "pnv": 1,
+    "bng": 1.1,
+    "cc": 0.6,
+    "podemos": 1.9,
+    "salf": 1.2
+   },
+   "seats": {
+    "pp": 123,
+    "psoe": 113,
+    "vox": 72,
+    "sumar": 14,
+    "erc": 8,
+    "junts": 4,
+    "bildu": 6,
+    "pnv": 5,
+    "bng": 2,
+    "cc": 1,
+    "adelante": 1,
+    "podemos": 1,
+    "salf": 0
+   },
+   "ranges": null,
+   "source": "https://www.elconfidencial.com/espana/2026-10-23/encuesta-imop-elecciones-29n-bloque-psoe-frente-amplio_4450302/"
+  },
+  {
+   "id": "sigma-dos-2026-10-19-2026-10-14",
+   "pollster": "Sigma Dos",
+   "client": "El Mundo",
+   "published": "2026-10-19",
+   "start": "2026-10-01",
+   "end": "2026-10-14",
+   "sample": 3007,
+   "votes": {
+    "pp": 31.5,
+    "psoe": 25.3,
+    "vox": 19.5,
+    "sumar": 7.2,
+    "compromis": 0.9,
+    "erc": 2.5,
+    "junts": 1.2,
+    "bildu": 1.2,
+    "pnv": 0.9,
+    "bng": 0.8,
+    "cc": 0.5,
+    "adelante": 0.8,
+    "podemos": 2.8
+   },
+   "seats": {
+    "erc": 9,
+    "bng": 2,
+    "cc": 1,
+    "podemos": 1
+   },
+   "ranges": {
+    "pp": [
+     132,
+     137
+    ],
+    "psoe": [
+     101,
+     106
+    ],
+    "vox": [
+     65,
+     68
+    ],
+    "sumar": [
+     9,
+     10
+    ],
+    "compromis": [
+     3,
+     4
+    ],
+    "junts": [
+     6,
+     7
+    ],
+    "bildu": [
+     6,
+     7
+    ],
+    "pnv": [
+     5,
+     6
+    ],
+    "adelante": [
+     1,
+     2
+    ]
+   },
+   "source": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f168e9cf4a2c7a8b458b.html"
+  }
+ ]
+}
